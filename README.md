@@ -94,13 +94,6 @@ Personal homelab built around IaC principles for practicing and demonstrating en
 
 </details>
 
-<details>
-<summary><b>🐉 KaliFetch — Custom Security-Themed System Info Script</b></summary>
-<br>
-
-Custom Bash fetch script with ASCII dragon art and a two-column layout, purpose-built for Kali Linux. Displays a live security status block covering SSH state, Tor, VPN, firewall, listening ports, and login audit.
-
-</details>
 
 ---
 
