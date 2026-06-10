@@ -17,20 +17,9 @@ Focus        : Secure System Design · Enterprise Infrastructure · Threat Detec
 Status       : Actively building · Actively breaking
 ```
 
-Cybersecurity practitioner with hands-on experience in offensive and defensive security, enterprise infrastructure, and secure protocol design. Currently in a cybersecurity internship covering penetration testing, firewall policy analysis, and PAM implementation (CyberArk). Building production-quality tools across Rust, Python, and Bash, with a focus on network visibility, secure communications, and infrastructure automation.
+Cybersecurity practitioner with a strong interest in offensive and defensive security, enterprise infrastructure, and secure protocol design. Building production-quality tools across Rust, Python, and Bash, with a focus on network visibility, secure communications, and infrastructure automation.
 
-Based in Luxembourg with active exposure to to realworld chelenges, networks, and real-world pentest engagements.
-
----
-
-## 🛡️ Active Internship Scope
-
-| Domain | Work |
-|---|---|
-| **Penetration Testing** | Internal network engagements, AD enumeration, VLAN traversal, report writing |
-| **Firewall Analysis** | Policy review, traffic inspection, rule auditing |
-| **PAM** | CyberArk implementation, privileged access workflows, account onboarding |
-| **Reporting** | CVSS-scored findings, executive and technical deliverables |
+Based in Luxembourg, with hands-on lab experience in Active Directory environments, VLAN-segmented networks, and red/blue team techniques.
 
 ---
 
@@ -105,6 +94,13 @@ Personal homelab built around IaC principles for practicing and demonstrating en
 
 </details>
 
+<details>
+<summary><b>🐉 KaliFetch — Custom Security-Themed System Info Script</b></summary>
+<br>
+
+Custom Bash fetch script with ASCII dragon art and a two-column layout, purpose-built for Kali Linux. Displays a live security status block covering SSH state, Tor, VPN, firewall, listening ports, and login audit.
+
+</details>
 
 ---
 
@@ -117,7 +113,6 @@ Personal homelab built around IaC principles for practicing and demonstrating en
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logo=nmap&logoColor=white)
-![CyberArk](https://img.shields.io/badge/CyberArk-00AEEF?style=flat-square&logoColor=white)
 
 **Languages & Dev**
 
@@ -155,6 +150,10 @@ TryHackMe — Completed Paths
   [✅] Jr Penetration Tester
   [✅] DevSecOps
   [✅] Security Engineer
+
+Upcoming
+  [ ] CompTIA Security+         ← current target
+  [ ] eJPT (eLearnSecurity)
 ```
 
 ---
@@ -190,7 +189,7 @@ TryHackMe — Completed Paths
 
 ## 📫 Connect
 
-> Open to cybersecurity collaboration, open-source contributions, and opportunities in Luxembourg and the EU institution space.
+> Open to cybersecurity collaboration and open-source contributions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
