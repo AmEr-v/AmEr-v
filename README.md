@@ -19,7 +19,7 @@ Status       : Actively building · Actively breaking
 
 Cybersecurity practitioner with hands-on experience in offensive and defensive security, enterprise infrastructure, and secure protocol design. Currently in a cybersecurity internship covering penetration testing, firewall policy analysis, and PAM implementation (CyberArk). Building production-quality tools across Rust, Python, and Bash, with a focus on network visibility, secure communications, and infrastructure automation.
 
-Based in Luxembourg with active exposure to enterprise AD environments, VLAN-segmented networks, and real-world pentest engagements.
+Based in Luxembourg with active exposure to to realworld chelenges, networks, and real-world pentest engagements.
 
 ---
 
