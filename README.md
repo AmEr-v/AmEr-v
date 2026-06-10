@@ -151,9 +151,6 @@ TryHackMe — Completed Paths
   [✅] DevSecOps
   [✅] Security Engineer
 
-Upcoming
-  [ ] CompTIA Security+         ← current target
-  [ ] eJPT (eLearnSecurity)
 ```
 
 ---
